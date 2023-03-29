@@ -1,1 +1,1 @@
-# Fake-News-Detection-Project
+# Fake-News-Detection
